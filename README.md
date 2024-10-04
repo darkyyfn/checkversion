@@ -8,5 +8,5 @@
 
 # CheckVersion
 
-> [!WARNING]
+> [!Advertencia]
 > Esto no es una utilidad ni nada, solo es para comprobar la version, si enserio quieres utilidades mira mi github o mis redes
